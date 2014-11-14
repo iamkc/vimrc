@@ -10,9 +10,6 @@ MANUALLY INSTALL
 1. Check out from GitHub
 
         git clone https://github.com/iamkc/vimrc.git ~/.vim
-        cd ~/.vim
-        git submodule init
-        git submodule update
 
 2. Install ~/.vimrc
 
