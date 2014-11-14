@@ -43,6 +43,8 @@ Bundle 'SrcExpl'
 Bundle 'Trinity'
 Bundle 'taglist.vim'
 Bundle 'The-NERD-tree'
+" multi-cscope-db
+" use :CSBuild to build db
 Bundle 'charz/multi-cscope-db'
 Bundle 'fholgado/minibufexpl.vim'
 filetype plugin indent on
